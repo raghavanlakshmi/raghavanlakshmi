@@ -12,7 +12,7 @@ what didn't work.
 
 | Project | What it is | Headline result |
 |---|---|---|
-| **[TrialMatch AI](https://github.com/raghavanlakshmi/TrialMatch_AI)** | Clinical-trial prescreening: patient documents → source-verified facts → criterion-by-criterion assessment for a human reviewer | 97% criterion accuracy, **zero unsafe clearances**; 192 tests |
+| **[TrialMatch AI](https://github.com/raghavanlakshmi/TrialMatch_AI)** · [live demo](https://trialmatch-ai.streamlit.app/) | Clinical-trial prescreening: patient documents → source-verified facts → criterion-by-criterion assessment for a human reviewer | 97% criterion accuracy, **zero unsafe clearances**; 192 tests |
 | **[VerdeBowl](https://github.com/raghavanlakshmi/VerdeBowl)** | Red-teamed an LLM support bot, then hardened it across five defense layers | Attack success **10.4% → 1.9%**; IDOR fixed in the backend, not the prompt |
 | **[Nexus](https://github.com/raghavanlakshmi/nexus)** | 5-agent LangGraph co-pilot that turns a discharge summary into a 30-day recovery plan | Tiered escalation with human approval for clinical messages |
 | **[Hub](https://github.com/raghavanlakshmi/hub)** | Nexus collapsed to two agents to measure what multi-agent orchestration really costs | Same quality and cost with 40% fewer graph nodes; escalation accuracy 90% → 96.7% |
