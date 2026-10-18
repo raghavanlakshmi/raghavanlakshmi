@@ -1,9 +1,9 @@
-### Hi, I'm Lakshmi Raghavan 👋
+### Hi, I'm Lakshmi Raghavan
 
 I build **evaluated, safety-first AI systems for healthcare** — agents and retrieval pipelines that show
 their evidence, measure their failures, and keep a human in the loop where decisions matter.
 
-What I care about: designing for the failure case first, measuring before claiming, and saying plainly
+What I care about: designing for the failure case first, measuring before claiming, and most important - saying plainly
 what didn't work.
 
 ---
